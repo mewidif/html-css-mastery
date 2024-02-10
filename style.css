@@ -1,0 +1,86 @@
+html {
+  font-family: 'Times New Roman', Arial, sans-serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 12px;
+}
+
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30 px;
+  margin-left: auto;
+}
+
+figure#spurs img {
+  max-width: 620px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', Tahoma, Arial;
+}
+
+h4 {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  margin-top: 10px;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 4.5rem;
+  margin: 16px 0 20px 0;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 3.5rem;
+  margin: 14px 0 18px 0;
+}
+
+h3 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  margin: 12px 0 16px 0;
+}
+
+.byline, figcaption {
+  font-family: Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
+span {
+  font-style: italic;
+}
+
+figcaption {
+  margin: 8px 0 12px 0;
+  text-align: right;
+}
+
+blockquote {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  border-left: 4px solid grey;
+  padding: 20px;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+ol li {
+  margin-top: 8px;
+}
+
+section {
+  margin-top: 12px;
+  background-color: #ccc;
+  padding: 12px;
+}
